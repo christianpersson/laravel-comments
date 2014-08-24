@@ -1,0 +1,1 @@
+/Applications/XAMPP/xamppfiles/htdocs/rt3_laravel/app/views/comments/index.blade.php
