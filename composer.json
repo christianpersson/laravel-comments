@@ -1,6 +1,6 @@
 {
     "name": "persson/comments",
-    "description": "",
+    "description": "A simple comments package",
     "authors": [
         {
             "name": "Christian Persson",
