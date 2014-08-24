@@ -5,9 +5,9 @@ A simple package for organize comments.
 
 ## Installation
 
-Add the following to you composer.json file (Recommend swapping "dev-master" for the latest release)
+Add the following to you composer.json file
 
-    "christianpersson/laravel-comments": "dev-master"
+    "persson/comments": "dev-master"
 
 Run
 
@@ -19,8 +19,8 @@ Add the following to app/config/app.php
 
 Run the package migration
 
-    php artisan migrate --package=christian-persson/laravel-comments
+    php artisan migrate --package=persson/comments
 
 Publish the config (not mush to config yet...)
 
-    php artisan config:publish persson/laravel-comments
+    php artisan config:publish persson/comments
