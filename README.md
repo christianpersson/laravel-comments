@@ -15,7 +15,7 @@ Run
 
 Add the following to app/config/app.php
 
-    'Fbf\LaravelComments\LaravelCommentsServiceProvider'
+    'Persson\Comments\CommentsServiceProvider'
 
 Run the package migration
 
@@ -23,4 +23,4 @@ Run the package migration
 
 Publish the config (not mush to config yet...)
 
-    php artisan config:publish fbf/laravel-comments
+    php artisan config:publish persson/laravel-comments
