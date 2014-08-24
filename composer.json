@@ -1,6 +1,9 @@
 {
     "name": "persson/comments",
     "description": "A simple comments package",
+    "keywords": ["comments","laravel"],
+    "homepage": "https://github.com/christianpersson/laravel-comments",
+    "license": "MIT",
     "authors": [
         {
             "name": "Christian Persson",
